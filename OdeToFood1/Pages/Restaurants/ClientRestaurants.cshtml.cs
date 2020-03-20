@@ -5,12 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace OdeToFood.Pages
+namespace OdeToFood1.Pages.Restaurants
 {
-    public class PrivacyModel : PageModel
+    public class ClientRestaurantsModel : PageModel
     {
-        public void OnGet()
-        {
-        }
+      
     }
 }
